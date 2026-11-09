@@ -1,6 +1,0 @@
-Rencana Konten WPU
-
-- javascript
-- php frameworks
-- interview
-- Vlogs
