@@ -3,7 +3,11 @@ wpu
 1. javascript
   *ER6
   *framework JS
+  ^ Vue
+  ^ React
 - struktur data Dasar
 2. framework laravel
+  ^ PHP Laravel
 3. interview
 4. vlogs
+  ^ Pyhton
