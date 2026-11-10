@@ -4,6 +4,7 @@ wpu
   *ER6
   *framework JS
   ^ Vue
+  ^ React
 - struktur data Dasar
 2. framework laravel
   ^ PHP Laravel
